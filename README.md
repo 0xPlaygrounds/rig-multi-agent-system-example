@@ -1,1 +1,1 @@
-# rig-multi-agent-system-world-builders
+# rig-multi-agent-system
